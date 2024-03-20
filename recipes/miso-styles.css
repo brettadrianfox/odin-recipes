@@ -1,0 +1,37 @@
+.main-title {
+  background-color: yellow;
+  color: black;
+  font-size: 40px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+
+.ul-element {
+  font-family: Garamond, "Times New Roman", serif;
+  font-size: 24px;
+  line-height: 1.5;
+  background-color: beige;
+}
+
+.recipe-title {
+  background-color: red;
+  font-size: 34px;
+  text-align: center;
+  font-family: Garamond, "Times New Roman", serif;
+  font-weight: bold;
+}
+
+.subheading {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: yellow;
+  color: gray;
+  font-size: 28px;
+}
+
+.ol-element {
+  font-family:'Times New Roman', Times, serif;
+  font-size: 24px;
+  line-height: 1.5;
+  background-color: green;
+}
